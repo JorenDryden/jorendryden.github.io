@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# I am Joren Dryden
 I am a computer science and philosophy student at the University of Saskatchewan. My interests include: game development, software engineering, existentialism/nihilism, morality, philosophy of mind, and philosophy of religion. 
 
 ## Projects

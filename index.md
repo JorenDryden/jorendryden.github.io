@@ -3,8 +3,8 @@ layout: home
 title: Home
 ---
 
-# Your Name
-I am Joren Dryden. I am a computer science and philosophy student at the University of Saskatchewan. My interests include: game development, software engineering, existentialism/nihilism, philosophy of mind, and philosophy of religion. 
+# I am Joren Dryden
+I am a computer science and philosophy student at the University of Saskatchewan. My interests include: game development, software engineering, existentialism/nihilism, morality, philosophy of mind, and philosophy of religion. 
 
 ## Projects
 - [TurtleShell](https://github.com/yourusername/project1)
@@ -14,7 +14,6 @@ I am Joren Dryden. I am a computer science and philosophy student at the Univers
 - [VDL - mp3/mp4 Downloader] (https://github.com/jorendryden/vdl)
 
 ## Contact
-- email@example.com
 - https://www.linkedin.com/in/jorendryden
 - https://github.com/jorendryden
 

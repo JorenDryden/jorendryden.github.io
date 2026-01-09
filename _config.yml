@@ -3,7 +3,7 @@ description: Portfolio
 theme: minima
 header_pages:
   - about.md
-  - turtleshell.md
+  - index.md
   - resume.md
-
+  - music.md
 markdown: kramdown

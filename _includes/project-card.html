@@ -1,0 +1,28 @@
+<section class="project-card">
+  <div class="project-card__media">
+    <img
+      src="{{ include.image | relative_url }}"
+      alt="{{ include.alt | default: include.title | escape }}"
+      loading="lazy"
+    >
+  </div>
+
+  <div class="project-card__body">
+    <header class="project-card__header">
+      <h2 class="project-card__title">{{ include.title }}</h2>
+      {% if include.role %}
+        <p class="project-card__meta"><strong>Role:</strong> {{ include.role }}</p>
+      {% endif %}
+    </header>
+
+    <div class="project-card__desc">
+      {{ include.description }}
+    </div>
+
+    {% if include.links %}
+      <div class="project-card__links">
+        {{ include.links }}
+      </div>
+    {% endif %}
+  </div>
+</section>

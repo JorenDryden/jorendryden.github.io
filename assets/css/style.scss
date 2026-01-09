@@ -1,0 +1,9 @@
+.image-text {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+
+  img {
+    max-width: 300px;
+  }
+}

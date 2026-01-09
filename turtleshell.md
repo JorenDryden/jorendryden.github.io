@@ -4,7 +4,7 @@ title: TurtleShell
 permalink: /turtleshell/
 ---
 
-<link rel="stylesheet" href="{{ '/assets/main.scss' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/style.scss' | relative_url }}">
 
 
 <div class="image-text">

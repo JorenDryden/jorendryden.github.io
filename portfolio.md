@@ -21,6 +21,26 @@ permalink: /portfolio/
 %}
 
 {% include project-card.html
+  title="Nerobot - Discord Music Bot"
+  role="Sole Developer"
+  image="nerobot.png"
+  description="
+  <p>One paragraph description.</p>
+  <p>Second paragraph with key tech.</p>
+  "
+%}
+
+{% include project-card.html
+  title="Another Project"
+  role="Developer"
+  image="/images/another.png"
+  description="
+  <p>One paragraph description.</p>
+  <p>Second paragraph with key tech.</p>
+  "
+%}
+
+{% include project-card.html
   title="Another Project"
   role="Developer"
   image="/images/another.png"

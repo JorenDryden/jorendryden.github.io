@@ -2,7 +2,6 @@ title: Joren Dryden
 description: Portfolio
 theme: minima
 header_pages:
-  - about.md
   - portfolio.md
   - music.md
   - resume.md
